@@ -7,7 +7,7 @@
 
 We're working hard to create a company that we would want to work for. This means an engineering-centered culture and respect for intelligent problem-solvers.
 
- We've come up with a novel way of approaching native mobile app development, that we think will help nearly every company.
+ We've come up with a novel way of approaching native mobile app development, which we think will help nearly every company.
 
 * We are looking for bright people to come together and solve interesting problems
 * We are enabling non-developers to build native mobile apps that will make their work, and their lives easier. Yay for helping someone go home a little earlier, right?
