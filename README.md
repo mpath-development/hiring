@@ -1,6 +1,6 @@
 #Work at m›PATH. We are working on something awesome.
 
-###Are you serious about code? Because code is serious business.
+###Are you serious about building awesomeness? Because code is serious business.
 
 
 ##Why would you work at m›PATH?
@@ -27,11 +27,11 @@ Email [interested@mpath.com](http://mailto:interested@mpath.com) if this sounds 
 
 Here's some specific roles we are looking for. The more you can do, the better.
 
-[VP of Engineering](http://http://www.jobscore.com/jobs2/mpath/vice-president-of-engineering/begpjSUEyr46MyeJe9fLhG) 
+[Sr. iOS Engineer](http://www.jobscore.com/jobs2/mpath/senior-ios-engineer/bw6XlgsmSr45FdiGakhP3Q)
 
 [Sr. DevOps Engineer](http://www.jobscore.com/jobs2/mpath/senior-devops-engineer/anbd9eUCWr47pqeJe9fLhG)
 
-[Sr. iOS Engineer](http://www.jobscore.com/jobs2/mpath/senior-ios-engineer/bw6XlgsmSr45FdiGakhP3Q)
+[Web App/UI Engineer](http://www.jobscore.com/jobs2/mpath/web-ui-developer/c04O0IsmCr44oRiGakhP3Q)
 
 [Technical Product Manager](http://www.jobscore.com/jobs2/mpath/technical-product-manager/d3gRriUC8r47zWiGakhP3Q)
 
@@ -39,4 +39,4 @@ Here's some specific roles we are looking for. The more you can do, the better.
 
 Sr. Android Engineer (Job Desc on the way)
 
-[Web App/UI Engineer](http://www.jobscore.com/jobs2/mpath/web-ui-developer/c04O0IsmCr44oRiGakhP3Q)
+
