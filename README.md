@@ -1,6 +1,3 @@
-
-##Are you serious about building great products?
-
 ##What is m›PATH?
 
 We're working hard to create a company that we all want to work for. This means an product-centered culture and respect for intelligent problem-solvers.
