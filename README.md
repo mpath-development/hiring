@@ -16,7 +16,6 @@ The mPATH platform is a new and novel way of approaching native mobile app devel
 * We are remote friendly.
 * We pay well.
 * We have excellent benefits.
-* We have two sweet offices in both SF and Palo Alto.
 
 Email [interested@mpath.com](http://mailto:interested@mpath.com) if this sounds like the right kind of adventure for you.
 
